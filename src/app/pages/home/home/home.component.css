@@ -1,0 +1,20 @@
+.home-page {
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.infos {
+  /* margin-left: */
+  width: 50px !important;
+  height: 60px !important;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  /* width: 80%; */
+  margin-left: 20px;
+  margin-right: 20px;
+}

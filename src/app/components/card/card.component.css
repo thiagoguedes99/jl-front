@@ -1,0 +1,51 @@
+.card {
+  width: 286px;
+  height: 382px;
+  padding: 0px;
+  margin-bottom: 60px;
+}
+/* mat-elevation-z24 */
+.card-foto {
+  width: 286px;
+  height: 180px;
+  margin: 0px;
+  margin-bottom: 25px;
+}
+
+.card-descricao {
+  display: flex;
+  font-size: 22px;
+  font-weight: 400;
+  justify-content: center;
+}
+
+.card-centro {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.card-rs-valor {
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: 5px;
+}
+
+.card-valor {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.card-botao {
+  display: flex;
+  justify-content: center;
+  position:absolute;
+  bottom:0;
+  width:110%;
+  margin-bottom: 15px !important;
+}
+
+.mat-raised-button {
+  border-radius: 20px;
+  width: 50%;
+}
